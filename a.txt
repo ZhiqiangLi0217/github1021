@@ -5,3 +5,4 @@ xiugai:wq
 000000000000000000000000000000000000000000000000000
 sihuabaoFork01
 sihuabaoTestFriend
+testNoPassword
